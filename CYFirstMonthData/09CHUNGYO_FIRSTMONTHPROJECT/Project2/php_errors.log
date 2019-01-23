@@ -1,0 +1,174 @@
+[27-Jul-2017 08:53:36 UTC] PHP Warning:  include(OpenSQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 8
+[27-Jul-2017 08:53:36 UTC] PHP Stack trace:
+[27-Jul-2017 08:53:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:53:36 UTC] PHP Warning:  include(): Failed opening 'OpenSQL.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 8
+[27-Jul-2017 08:53:36 UTC] PHP Stack trace:
+[27-Jul-2017 08:53:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:53:36 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project2/WebPage/index.php on line 9
+[27-Jul-2017 08:53:36 UTC] PHP Stack trace:
+[27-Jul-2017 08:53:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:53:36 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Project2/WebPage/index.php:9
+[27-Jul-2017 08:53:36 UTC] PHP Warning:  require(HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 15
+[27-Jul-2017 08:53:36 UTC] PHP Stack trace:
+[27-Jul-2017 08:53:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:53:36 UTC] PHP Fatal error:  require(): Failed opening required 'HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 15
+[27-Jul-2017 08:53:36 UTC] PHP Stack trace:
+[27-Jul-2017 08:53:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:54:02 UTC] PHP Warning:  require(HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:54:02 UTC] PHP Stack trace:
+[27-Jul-2017 08:54:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:54:02 UTC] PHP Fatal error:  require(): Failed opening required 'HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:54:02 UTC] PHP Stack trace:
+[27-Jul-2017 08:54:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:54:23 UTC] PHP Warning:  require(/HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:54:23 UTC] PHP Stack trace:
+[27-Jul-2017 08:54:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:54:23 UTC] PHP Fatal error:  require(): Failed opening required '/HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:54:23 UTC] PHP Stack trace:
+[27-Jul-2017 08:54:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:54:38 UTC] PHP Warning:  require(/HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:54:38 UTC] PHP Stack trace:
+[27-Jul-2017 08:54:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:54:38 UTC] PHP Fatal error:  require(): Failed opening required '/HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:54:38 UTC] PHP Stack trace:
+[27-Jul-2017 08:54:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:56:22 UTC] PHP Warning:  require(/HTML_EffectHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:56:22 UTC] PHP Stack trace:
+[27-Jul-2017 08:56:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:56:22 UTC] PHP Fatal error:  require(): Failed opening required '/HTML_EffectHeader.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:56:22 UTC] PHP Stack trace:
+[27-Jul-2017 08:56:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:56:49 UTC] PHP Warning:  require(Project2/HTML_EffectHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:56:49 UTC] PHP Stack trace:
+[27-Jul-2017 08:56:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:56:49 UTC] PHP Fatal error:  require(): Failed opening required 'Project2/HTML_EffectHeader.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:56:49 UTC] PHP Stack trace:
+[27-Jul-2017 08:56:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:57:13 UTC] PHP Warning:  require(/Project2/HTML_EffectHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:57:13 UTC] PHP Stack trace:
+[27-Jul-2017 08:57:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:57:13 UTC] PHP Fatal error:  require(): Failed opening required '/Project2/HTML_EffectHeader.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:57:13 UTC] PHP Stack trace:
+[27-Jul-2017 08:57:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:57:42 UTC] PHP Warning:  require(/Project2/HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:57:42 UTC] PHP Stack trace:
+[27-Jul-2017 08:57:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:57:42 UTC] PHP Fatal error:  require(): Failed opening required '/Project2/HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:57:42 UTC] PHP Stack trace:
+[27-Jul-2017 08:57:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:57:57 UTC] PHP Warning:  require(Project2/HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:57:57 UTC] PHP Stack trace:
+[27-Jul-2017 08:57:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 08:57:57 UTC] PHP Fatal error:  require(): Failed opening required 'Project2/HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/WebPage/index.php on line 3
+[27-Jul-2017 08:57:57 UTC] PHP Stack trace:
+[27-Jul-2017 08:57:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebPage/index.php:0
+[27-Jul-2017 09:30:48 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php on line 6
+[27-Jul-2017 09:30:48 UTC] PHP Stack trace:
+[27-Jul-2017 09:30:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php:0
+[27-Jul-2017 09:30:48 UTC] PHP   2. explode() /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php:6
+[27-Jul-2017 09:31:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php on line 6
+[27-Jul-2017 09:31:39 UTC] PHP Warning:  explode() expects parameter 3 to be long, string given in /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php on line 6
+[27-Jul-2017 09:31:39 UTC] PHP Stack trace:
+[27-Jul-2017 09:31:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php:0
+[27-Jul-2017 09:31:39 UTC] PHP   2. explode() /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php:6
+[27-Jul-2017 09:36:05 UTC] PHP Warning:  explode(): Empty delimiter in /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php on line 9
+[27-Jul-2017 09:36:05 UTC] PHP Stack trace:
+[27-Jul-2017 09:36:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php:0
+[27-Jul-2017 09:36:05 UTC] PHP   2. explode() /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php:9
+[28-Jul-2017 03:50:25 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php on line 37
+[28-Jul-2017 03:50:38 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php on line 37
+[28-Jul-2017 06:37:34 UTC] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php on line 50
+[28-Jul-2017 07:06:49 UTC] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:06:49 UTC] PHP Stack trace:
+[28-Jul-2017 07:06:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:06:49 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:06:49 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:06:49 UTC] PHP Stack trace:
+[28-Jul-2017 07:06:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:06:49 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:06:49 UTC] PHP Warning:  file_get_contents(http://lab-leon1129.c9users.io/Project2/WebAPI): failed to open stream: operation failed in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:06:49 UTC] PHP Stack trace:
+[28-Jul-2017 07:06:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:06:49 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:13:18 UTC] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:13:18 UTC] PHP Stack trace:
+[28-Jul-2017 07:13:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:13:18 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:13:18 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:13:18 UTC] PHP Stack trace:
+[28-Jul-2017 07:13:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:13:18 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:13:18 UTC] PHP Warning:  file_get_contents(http://lab-leon1129.c9users.io/Project2/WebAPI): failed to open stream: operation failed in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:13:18 UTC] PHP Stack trace:
+[28-Jul-2017 07:13:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:13:18 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:32:39 UTC] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:32:39 UTC] PHP Stack trace:
+[28-Jul-2017 07:32:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:32:39 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:32:39 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:32:39 UTC] PHP Stack trace:
+[28-Jul-2017 07:32:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:32:39 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:32:39 UTC] PHP Warning:  file_get_contents(http://lab-leon1129.c9users.io/Project2/WebAPI/WebAPI.php): failed to open stream: operation failed in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:32:39 UTC] PHP Stack trace:
+[28-Jul-2017 07:32:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:32:39 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:32:46 UTC] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:32:46 UTC] PHP Stack trace:
+[28-Jul-2017 07:32:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:32:46 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:32:46 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:32:46 UTC] PHP Stack trace:
+[28-Jul-2017 07:32:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:32:46 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[28-Jul-2017 07:32:46 UTC] PHP Warning:  file_get_contents(http://lab-leon1129.c9users.io/Project2/WebAPI/WebAPI.php): failed to open stream: operation failed in /home/ubuntu/workspace/Project2/LoginPage/index.php on line 8
+[28-Jul-2017 07:32:46 UTC] PHP Stack trace:
+[28-Jul-2017 07:32:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/LoginPage/index.php:0
+[28-Jul-2017 07:32:46 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/Project2/LoginPage/index.php:8
+[01-Aug-2017 03:13:52 UTC] PHP Warning:  include(OpenSQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/HomePage/index.php on line 8
+[01-Aug-2017 03:13:52 UTC] PHP Stack trace:
+[01-Aug-2017 03:13:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 03:13:52 UTC] PHP Warning:  include(): Failed opening 'OpenSQL.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/HomePage/index.php on line 8
+[01-Aug-2017 03:13:52 UTC] PHP Stack trace:
+[01-Aug-2017 03:13:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 03:13:52 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/Project2/HomePage/index.php on line 9
+[01-Aug-2017 03:13:52 UTC] PHP Stack trace:
+[01-Aug-2017 03:13:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 03:13:52 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/Project2/HomePage/index.php:9
+[01-Aug-2017 03:34:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ubuntu/workspace/Project2/HomePage/HTML_Effect/Bootstrap.php:52) in /home/ubuntu/workspace/Project2/HomePage/index.php on line 10
+[01-Aug-2017 03:34:50 UTC] PHP Stack trace:
+[01-Aug-2017 03:34:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 03:34:50 UTC] PHP   2. session_start() /home/ubuntu/workspace/Project2/HomePage/index.php:10
+[01-Aug-2017 04:18:22 UTC] PHP Warning:  urlencode() expects parameter 1 to be string, array given in /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php on line 65
+[01-Aug-2017 04:18:22 UTC] PHP Stack trace:
+[01-Aug-2017 04:18:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php:0
+[01-Aug-2017 04:18:22 UTC] PHP   2. urlencode() /home/ubuntu/workspace/Project2/WebAPI/WebAPI.php:65
+[01-Aug-2017 05:12:59 UTC] PHP Warning:  require(/Project2/HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/HomePage/index.php on line 3
+[01-Aug-2017 05:12:59 UTC] PHP Stack trace:
+[01-Aug-2017 05:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 05:12:59 UTC] PHP Fatal error:  require(): Failed opening required '/Project2/HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/HomePage/index.php on line 3
+[01-Aug-2017 05:12:59 UTC] PHP Stack trace:
+[01-Aug-2017 05:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 05:13:27 UTC] PHP Warning:  require(/Project2/HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/HomePage/index.php on line 3
+[01-Aug-2017 05:13:27 UTC] PHP Stack trace:
+[01-Aug-2017 05:13:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 05:13:27 UTC] PHP Fatal error:  require(): Failed opening required '/Project2/HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/HomePage/index.php on line 3
+[01-Aug-2017 05:13:27 UTC] PHP Stack trace:
+[01-Aug-2017 05:13:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 05:16:37 UTC] PHP Warning:  require(HTML_Effect/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/HomePage/index.php on line 3
+[01-Aug-2017 05:16:37 UTC] PHP Stack trace:
+[01-Aug-2017 05:16:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 05:16:37 UTC] PHP Fatal error:  require(): Failed opening required 'HTML_Effect/Header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/HomePage/index.php on line 3
+[01-Aug-2017 05:16:37 UTC] PHP Stack trace:
+[01-Aug-2017 05:16:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 05:17:31 UTC] PHP Warning:  include(/Project2/HTML_Effect/DiscussBoard.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Project2/HomePage/index.php on line 18
+[01-Aug-2017 05:17:31 UTC] PHP Stack trace:
+[01-Aug-2017 05:17:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0
+[01-Aug-2017 05:17:31 UTC] PHP Warning:  include(): Failed opening '/Project2/HTML_Effect/DiscussBoard.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Project2/HomePage/index.php on line 18
+[01-Aug-2017 05:17:31 UTC] PHP Stack trace:
+[01-Aug-2017 05:17:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Project2/HomePage/index.php:0

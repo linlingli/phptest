@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `Board` (
+  `BoardID` int(11) unsigned NOT NULL auto_increment,
+  `BoardType` varchar(20) collate utf8_unicode_ci NOT NULL,
+  `BoardNickName` varchar(20) collate utf8_unicode_ci NOT NULL,
+  `BoardDate` varchar(20) collate utf8_unicode_ci NOT NULL,
+  `BoardTitle` varchar(100) collate utf8_unicode_ci NOT NULL,
+  `BoardContent` varchar(1000) collate utf8_unicode_ci default NULL,
+  PRIMARY KEY  (`BoardID`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=11 ;
